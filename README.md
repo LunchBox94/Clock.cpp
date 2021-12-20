@@ -14,7 +14,7 @@ What I did particularly well was to give the most a good product of code with th
 I could of made my code a little more organized and more compiled without useless lines for the most efficient code and less wasted memory space. 
 
 # Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
-
+The most challenging part of the code was keeping track of all the if statements and scenarios if something happened secondary would be the math of the clock regarding minutes, seconds and hours. This took a little thinking before I could eventually have the right end case of the clock working in a 24 hours period. 
 
 # What skills from this project will be particularly transferable to other projects or course work?
 The most important skills I learn from this project and that I will be transferring to other projects are the logical breakdown for the needs of the client and their end goals. It's hard to just start coding without the foundation of what you need to code. With a step-by-step process that is logical I am able to proceed with making software from my brain to write computer code on the screen. 
